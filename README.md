@@ -92,7 +92,7 @@ When I step away from the IDE, my passion for technology continues. You will lik
 <div align="center">
   <h3>📫 Let's Build Something Great Together</h3>
   <p>
-    <a href="hasarangadilshan.work@gmail.com">📧 Email</a> •
+    <a href="mailto:hasarangadilshan.work@gmail.com">📧 Email</a> •
     <a href="www.linkedin.com/in/hasaranga-abeyrathna-6b24b23a7>💼 LinkedIn</a> •
     <a href="https://your-portfolio-website.com">🌐 Portfolio</a> •
     <a href="https://github.com/hasaranga0630">💻 GitHub</a>
