@@ -97,6 +97,6 @@ When I step away from the IDE, my passion for technology continues. You will lik
     <a href="https://your-portfolio-website.com">🌐 Portfolio</a> •
     <a href="https://github.com/hasaranga0630">💻 GitHub</a>
   </p>
-  <p>📍 Malabe / Matale, Sri Lanka</p>
+  <p>📍 Matale, Sri Lanka</p>
   <p><i>Always open to discussing software architecture, AI integrations, or even custom PC builds!</i></p>
 </div>
