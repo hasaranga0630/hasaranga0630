@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there! 👋 I'm Hasaranga Abeyrathna (G. M. H. D.)</h1>
+  <h1>Hi there! 👋 I'm Hasaranga Abeyrathna </h1>
   <h3>Software Engineering Undergraduate @ SLIIT | System Architect | Full-Stack Developer</h3>
   <p><i>Building scalable architectures, intelligent AI systems, and seamless digital experiences.</i></p>
 </div>
